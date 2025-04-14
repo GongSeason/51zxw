@@ -1,0 +1,3 @@
+# Ignore specific .wal files  
+C#_test_for_fun/.vs/C#_test_for_fun/CopilotIndices/17.12.31.40377/CodeChunks.db-wal  
+C#_test_for_fun/.vs/C#_test_for_fun/CopilotIndices/17.12.31.40377/SemanticSymbols.db-wal  
