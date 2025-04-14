@@ -1,0 +1,7 @@
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\bin\Debug\自定义泛型类船舰.exe.config
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\bin\Debug\自定义泛型类船舰.exe
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\bin\Debug\自定义泛型类船舰.pdb
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\obj\Debug\自定义泛型类创建.csproj.AssemblyReference.cache
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\obj\Debug\自定义泛型类创建.csproj.CoreCompileInputs.cache
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\obj\Debug\自定义泛型类船舰.exe
+D:\7_C#_git\51zxw\C#_test_for_fun\自定义泛型类船舰\obj\Debug\自定义泛型类船舰.pdb

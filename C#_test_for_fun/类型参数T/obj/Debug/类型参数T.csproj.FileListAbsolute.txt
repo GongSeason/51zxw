@@ -1,0 +1,7 @@
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\bin\Debug\类型参数T.exe.config
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\bin\Debug\类型参数T.exe
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\bin\Debug\类型参数T.pdb
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\obj\Debug\类型参数T.csproj.AssemblyReference.cache
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\obj\Debug\类型参数T.csproj.CoreCompileInputs.cache
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\obj\Debug\类型参数T.exe
+D:\7_C#_git\51zxw\C#_test_for_fun\类型参数T\obj\Debug\类型参数T.pdb
